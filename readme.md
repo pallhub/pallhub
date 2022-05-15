@@ -3,6 +3,9 @@
 Hello, i am PaLL :3<br>
 Self-taught programmer. Mainly using JS/TS.
 
+### 📢 Announcement
+Currently no scripting or support requests: <b>on indefinitely time</b><i>(Private reasons)</i>
+<br>
 
 ### You can find me
 [<img align="left" title="PaLL#7182" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](#)
