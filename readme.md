@@ -1,7 +1,7 @@
 # PaLL*hub* <sup style="font-size: 12px">he/him</sup>
 
 Hello, i am PaLL :3<br>
-Self-taught programmer. Mainly using JS/TS.
+Self-taught programmer. Mainly using JS/TS/PHP.
 
 ### 📢 Announcement
 Currently no scripting or support requests: <b>on indefinitely time</b><i>(Private reasons)</i>
@@ -20,7 +20,7 @@ Currently no scripting or support requests: <b>on indefinitely time</b><i>(Priva
 * Vue
 * NodeJS
 * HTML5
-* CSS3
+* CSS3/SCSS
 * PHP
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
